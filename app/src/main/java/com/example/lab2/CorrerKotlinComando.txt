@@ -1,0 +1,3 @@
+kotlinc Ejercicio22.kt -include-runtime -d Ejercicio22.jar
+
+java -jar Ejercicio22.jar
