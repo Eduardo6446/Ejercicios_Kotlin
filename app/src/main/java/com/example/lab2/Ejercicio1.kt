@@ -11,7 +11,6 @@ fun main(){
     println("segundo numero")
     val tr1 = tr(reader.nextInt(), reader2.nextInt())
 
-
     println("El area del triangulo es $tr1")
 }
 
